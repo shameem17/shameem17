@@ -1,6 +1,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 ### Hi there, I'm Shameem Ahammed 👋
+🔭
 Software Engineer <br>
 Mir Info Systems | iOS Development <br>
 KUET | Problem Solving | Contest Programming <br>
@@ -9,8 +10,11 @@ KUET | Problem Solving | Contest Programming <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=500&color=FFA500&random=false&width=435&lines=I+am+Shameem+Ahammed;I+am+a+Software+Engineer)](https://git.io/typing-svg)
 <p style="text-align: justify;">
-I am currently working on Mir Info Systems as a Software Engineer. Here, I have the opportunity to work with Skitto (A Digital Product of Grameenphone) iOS development team. Swift, SwiftUI, Objective C, API, Firebase, Git and so many things I have learned so far at MISL. 
-I have a good problem solving skill. I have solved over 1000 problems in various online judges and also participated in around 100 online contests. </p>
+
+💬 I am currently working on Mir Info Systems as a Software Engineer. Here, I have the opportunity to work with Skitto (A Digital Product of Grameenphone) iOS development team. Swift, SwiftUI, Objective C, API, Firebase, Git and so many things I have learned so far at MISL. 
+I have good problem-solving skills. I have solved over 1000 problems in various online judges and participated in around 100 online contests. </p>
+
+🌱 Now learning JavaScript and other web technologies
 
 ### 🛠 Tech Knowledge
 
