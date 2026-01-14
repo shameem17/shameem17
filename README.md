@@ -3,36 +3,30 @@
 ### Hi there, I'm Shameem Ahammed 👋
 🔭
 Software Engineer <br>
-Mir Info Systems | iOS Development <br>
-KUET | Problem Solving | Contest Programming <br>
+Senior Software Engineer  | iOS Development | Swift, SwiftUI & UIKit | Architecting scalable apps (MVVM/Clean) <br>
+Skitto x Grameenphone <br>
 
 <a href="https://www.linkedin.com/in/shameem22">![linkedin](https://img.shields.io/badge/LinkedIn-0077b5?logo=Linkedin)</a>  <a href="https://github.com/shameem17">![Github](https://img.shields.io/badge/GitHub-grey?logo=Github)</a>   <a href="mailto:shamemm105455@gmail.com"> ![Gmail](https://img.shields.io/badge/shameem105455@gmail.com-b1d5ef?logo=Gmail)</a>  <a href="tel:+8801788381680"> ![Gmail](https://img.shields.io/badge/+8801788381680-ff2e00?logo=allocine) </a> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=500&color=FFA500&random=false&width=435&lines=I+am+Shameem+Ahammed;I+am+a+Software+Engineer)](https://git.io/typing-svg)
 <p style="text-align: justify;">
 
-💬 I am currently working on Mir Info Systems as a Software Engineer. Here, I have the opportunity to work with Skitto (A Digital Product of Grameenphone) iOS development team. Swift, SwiftUI, Objective C, API, Firebase, Git and so many things I have learned so far at MISL. 
-I have good problem-solving skills. I have solved over 1000 problems in various online judges and participated in around 100 online contests. </p>
+I am a passionate iOS Engineer with a strong foundation in Computer Science from **KUET**. I specialize in building scalable, user-focused iOS applications using **Swift**, **SwiftUI**, and **UIKit**. Currently, I am engineering robust mobile solutions at **Mir Info Systems**.
 
-🌱 Now learning JavaScript and other web technologies
+- 🔭 I’m currently working on: **Skitto iOS App** (Production Grade)
+- 📱 Top Skills: **Swift, SwiftUI, MVVM/Clean Architecture, Combine**
+- 🧠 Problem Solving: **1000+** algorithmic problems solved across Codeforces, LeetCode & CodeChef.
+- 👯 I’m looking to collaborate on: Open source iOS libraries and Swift tools.
 
-### 🛠 Tech Knowledge
+---
 
-<a href="#">
-  <img align="top" src="https://github.com/shameem17/shameem17/assets/53037559/dc832ba2-4df6-4805-a064-6753cdff46e7" width="23%"/>
-</a>  
+### 🛠 Tech Stack & Tools
 
-<a href="#">
-  <img align="top" src="https://github.com/shameem17/shameem17/assets/53037559/816d7dee-e5e9-42ba-86bb-b36a8811051d" width="23%"/>
-</a>  
-
-<a href="#">
-  <img align="top" src="https://github.com/shameem17/shameem17/assets/53037559/645103a7-874b-4cd5-af0a-bb8e6a071b1a" width="23%"/>
-</a>  
-
-<a href="#">
-  <img align="top" src="https://github.com/shameem17/shameem17/assets/53037559/efb3e0f6-695c-4176-acfb-7c91b15c92e4" width="23%"/>
-</a>
+*   **Languages:** Swift, Objective-C, C++
+*   **iOS Core:** SwiftUI, UIKit, Combine, XCTest, Core Data
+*   **Architecture:** MVVM, MVC, Clean Architecture
+*   **Networking:** REST APIs, Alamofire, WebSocket, Firebase
+*   **Tools:** Git, Jira, Postman, CocoaPods
 
 
 
