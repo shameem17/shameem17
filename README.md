@@ -1,14 +1,12 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 ### Hi there, I'm Shameem Ahammed 👋
-🔭
-Software Engineer <br>
 Senior Software Engineer  | iOS Development | Swift, SwiftUI & UIKit | Architecting scalable apps (MVVM/Clean) <br>
 Skitto x Grameenphone <br>
 
 <a href="https://www.linkedin.com/in/shameem22">![linkedin](https://img.shields.io/badge/LinkedIn-0077b5?logo=Linkedin)</a>  <a href="https://github.com/shameem17">![Github](https://img.shields.io/badge/GitHub-grey?logo=Github)</a>   <a href="mailto:shamemm105455@gmail.com"> ![Gmail](https://img.shields.io/badge/shameem105455@gmail.com-b1d5ef?logo=Gmail)</a>  <a href="tel:+8801788381680"> ![Gmail](https://img.shields.io/badge/+8801788381680-ff2e00?logo=allocine) </a> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=500&color=FFA500&random=false&width=435&lines=I+am+Shameem+Ahammed;I+am+a+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3500&pause=500&color=FFA500&random=false&width=435&lines=I+am+Shameem+Ahammed;I+am+a+Senior+Software+Engineer+iOS](https://git.io/typing-svg)
 <p style="text-align: justify;">
 
 I am a passionate iOS Engineer with a strong foundation in Computer Science from **KUET**. I specialize in building scalable, user-focused iOS applications using **Swift**, **SwiftUI**, and **UIKit**. Currently, I am engineering robust mobile solutions at **Mir Info Systems**.
